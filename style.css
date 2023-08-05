@@ -1,0 +1,42 @@
+body {
+  background: #98db92;
+}
+
+.container {
+  background: white;
+  width: 90%;
+  max-width: 600px;
+  margin: 100px auto 0;
+  border-radius: 10px;
+  padding: 30px;
+  margin-top: 50px;
+}
+
+.container h1 {
+  border-bottom: solid 1px black;
+  padding-bottom: 10px;
+  text-align: center;
+}
+
+.btn {
+  background: white;
+  color: #777777;
+  width: 100%;
+  border: 1px solid #777777;
+  padding: 10px;
+  margin: 10px 0;
+  text-align: left;
+  border-radius: 5px;
+  cursor: pointer;
+}
+#nextButton {
+  background: #98db92;
+  color: white;
+  width: 150px;
+  border: 0;
+  border-radius: 4px;
+  padding: 10px;
+  margin: 20px auto 0;
+  cursor: pointer;
+  display: block;
+}
